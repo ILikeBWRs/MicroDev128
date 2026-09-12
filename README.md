@@ -11,6 +11,13 @@ This is the base of the MicroDev128 Project. These microcontroller boards are de
 
 ---
 
+### MicroDevUPDI
+[MicroDevUPDI](https://github.com/ILikeBWRs/MicroDevUPDI)
+
+A universal, cheap USB C to UPDI converter. Used to program the *Non USB MicroDev128 Boards*
+
+---
+
 ### MicroDev128-32P
  [MicroDev128-32P (Rev1B)](https://github.com/ILikeBWRs/MicroDev128-32P)
 
@@ -41,4 +48,4 @@ A big thank you to the sample programs of the following manufactures:
 
 Revision: *2026-09-12*
 
-Version: *1.12*
+Version: *1.13*
