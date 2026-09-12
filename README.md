@@ -2,7 +2,7 @@
 
 ---
 
-![Project Image](./Assets/VS.jng)
+![Project Image](./Assets/VS.jpg)
 # MicroDev128 Board series
 
 This is the base of the MicroDev128 Project. These microcontroller boards are designed to be a series of modernized 8-bit AVR microcontrollers. 
