@@ -2,7 +2,7 @@
 
 ---
 
-![Project Image](./Assets/VS.png)
+![Project Image](./Assets/VS.jng)
 # MicroDev128 Board series
 
 This is the base of the MicroDev128 Project. These microcontroller boards are designed to be a series of modernized 8-bit AVR microcontrollers. 
@@ -31,8 +31,6 @@ For my project they gave me five indivdual PCBs of outstanding surface quality. 
 
 ## Samples
 
-![Samples Companys](./Assets/Samples.png)
-
 A big thank you to the sample programs of the following manufactures:
  - Microchip Technology
  - Analog Devices
@@ -42,3 +40,5 @@ A big thank you to the sample programs of the following manufactures:
 ---
 
 Revision: *2026-09-12*
+
+Version: *1.12*
